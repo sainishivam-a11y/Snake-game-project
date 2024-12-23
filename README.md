@@ -1,5 +1,5 @@
 # Snake-game-project
-Overview
+Overview :
 The Snake Game is a classic arcade game where the player controls a snake that moves around the screen. The goal is to eat food items (often represented as dots or squares), which causes the snake to grow longer. The game ends when the snake collides with itself or the walls. This project is an implementation of the Snake Game using Python and the Pygame library.
 
 Features
